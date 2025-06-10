@@ -11,9 +11,9 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+
+
 
 ![](https://github.com/kou95shik/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
@@ -21,7 +21,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/kou95shik/mern-chat-app
 ```
 
 Go to the project directory
